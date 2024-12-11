@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Cato Nguyen
 - 👀 I’m interested in reading, gaming, and browsing (cat) memes
-- 🌱 I’m currently learning Biology & Neuroscience (majors) and Computer Science & Chem & Maths (minor)
-- 💞️ I’m looking to collaborate on learning Computer Science (I'm a newbie o3o)
+- 🌱 I’m currently learning Biology & Neuroscience & Computer Science (majors) and Chem (minor)
+- 💞️ I’m looking forward to collaborating on learning Computer Science (I'm a newbie o3o)
 - 📫 How to reach me: my email (anguye18@oberlin.edu) or my Facebook (https://www.facebook.com/anhthunguyen.1303/)
-- 😄 Pronouns: They/She
+- 😄 Pronouns: They/Them
 - ⚡ Fun fact: Let's wait until we're close enough ;)
 
 <!---
