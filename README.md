@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cato Nguyen
 - 👀 I’m interested in reading, gaming, and browsing (cat) memes
-- 🌱 I’m currently planning to major in Neuroscience & Computer Science, minor in Mathematics, and probably Critical AI Studies or Cognitive Science.
+- 🌱 I’m majoring in Neuroscience & Computer Science, minoring in Mathematics, and probably Critical AI Studies or Cognitive Science.
 - 💞️ I’m looking forward to collaborating on learning Computer Science (I'm a newbie o3o)
 - 📫 How to reach me: my email (anguye18@oberlin.edu) or my Facebook (https://www.facebook.com/anhthunguyen.1303/)
 - 😄 Pronouns: They/Them
